@@ -1,0 +1,3 @@
+pip install PyOpenGL PyOpenGL_accelerate
+
+sudo apt install libglu1-mesa libglu1-mesa-dev freeglut3-dev
