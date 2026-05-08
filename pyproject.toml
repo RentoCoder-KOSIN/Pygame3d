@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pygame3d-generic"
-version = "0.3.0"
+version = "0.3.1"
 description = "Generic Pygame + OpenGL 3-D game engine library"
 readme = "README.md"
 license = { text = "MIT" }
