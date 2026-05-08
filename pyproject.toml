@@ -36,7 +36,6 @@ accelerate = ["PyOpenGL-accelerate>=3.1"]
 dev        = ["pytest", "black", "ruff", "build", "twine"]
 
 [project.urls]
-[project.urls]
 Homepage   = "https://github.com/RentoCoder-KOSIN/Pygame3d"
 Repository = "https://github.com/RentoCoder-KOSIN/Pygame3d"
 Issues     = "https://github.com/RentoCoder-KOSIN/Pygame3d/issues"
