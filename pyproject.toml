@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pygame3d"
+name = "pygame3d-generic"
 version = "0.3.0"
 description = "Generic Pygame + OpenGL 3-D game engine library"
 readme = "README.md"
@@ -42,7 +42,7 @@ Issues     = "https://github.com/RentoCoder-KOSIN/Pygame3d/issues"
 
 [tool.setuptools.packages.find]
 where   = ["."]
-include = ["pygame3d*"]
+include = ["pygame3d-generic*"]
 
 [tool.ruff]
 line-length    = 100
